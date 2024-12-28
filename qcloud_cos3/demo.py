@@ -16,8 +16,8 @@ logging.basicConfig(level=logging.DEBUG, stream=sys.stdout)
 
 # 设置用户属性, 包括secret_id, secret_key, region
 # appid已在配置中移除,请在参数Bucket中带上appid。Bucket由bucketname-appid组成
-secret_id = 'xxx'     # 替换为用户的secret_id
-secret_key = 'xxx'     # 替换为用户的secret_key
+secret_id = 'AKID15IsskiBQACGbAo6WhgcQbVls7HmuG00'     # 替换为用户的secret_id
+secret_key = 'csivKvxxrMvSvQpMWHuIz12pThQQlWRW'     # 替换为用户的secret_key
 region = 'ap-beijing-1'    # 替换为用户的region
 token = ''                 # 使用临时秘钥需要传入Token，默认为空,可不填
 config = CosConfig(Region=region, Secret_id=secret_id, Secret_key=secret_key, Token=token)  # 获取配置对象
