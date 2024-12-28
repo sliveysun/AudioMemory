@@ -1,0 +1,639 @@
+2024-09-30 00:41:08,798 tencent_speech.log-INFO  start:306 a0f32ccc-7e81-11ef-a251-f46d3ffc5e71 recognition start
+2024-09-30 00:41:23,972 tencent_speech.log-ERROR  on_message:246 a0f32ccc-7e81-11ef-a251-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:41:23,974 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id a0f32ccc-7e81-11ef-a251-f46d3ffc5e71
+2024-09-30 00:41:23,976 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id a0f32ccc-7e81-11ef-a251-f46d3ffc5e71
+2024-09-30 00:41:57,147 tencent_speech.log-INFO  start:306 bdc51178-7e81-11ef-96e2-f46d3ffc5e71 recognition start
+2024-09-30 00:42:12,300 tencent_speech.log-ERROR  on_message:246 bdc51178-7e81-11ef-96e2-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:42:12,302 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id bdc51178-7e81-11ef-96e2-f46d3ffc5e71
+2024-09-30 00:42:12,305 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id bdc51178-7e81-11ef-96e2-f46d3ffc5e71
+2024-09-30 00:42:31,120 tencent_speech.log-INFO  start:306 d204ed59-7e81-11ef-b21f-f46d3ffc5e71 recognition start
+2024-09-30 00:42:46,267 tencent_speech.log-ERROR  on_message:246 d204ed59-7e81-11ef-b21f-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:42:46,267 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id d204ed59-7e81-11ef-b21f-f46d3ffc5e71
+2024-09-30 00:42:46,269 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id d204ed59-7e81-11ef-b21f-f46d3ffc5e71
+2024-09-30 00:45:05,272 tencent_speech.log-INFO  start:306 2de6baa4-7e82-11ef-ab54-f46d3ffc5e71 recognition start
+2024-09-30 00:45:20,430 tencent_speech.log-ERROR  on_message:246 2de6baa4-7e82-11ef-ab54-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:45:20,432 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 2de6baa4-7e82-11ef-ab54-f46d3ffc5e71
+2024-09-30 00:45:20,434 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 2de6baa4-7e82-11ef-ab54-f46d3ffc5e71
+2024-09-30 00:46:15,359 tencent_speech.log-INFO  start:306 57ad0cb2-7e82-11ef-9bdb-f46d3ffc5e71 recognition start
+2024-09-30 00:46:30,502 tencent_speech.log-ERROR  on_message:246 57ad0cb2-7e82-11ef-9bdb-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:46:30,503 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 57ad0cb2-7e82-11ef-9bdb-f46d3ffc5e71
+2024-09-30 00:46:30,504 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 57ad0cb2-7e82-11ef-9bdb-f46d3ffc5e71
+2024-09-30 00:47:09,260 tencent_speech.log-INFO  start:306 77cd83e3-7e82-11ef-aceb-f46d3ffc5e71 recognition start
+2024-09-30 00:47:24,402 tencent_speech.log-ERROR  on_message:246 77cd83e3-7e82-11ef-aceb-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:47:24,405 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 77cd83e3-7e82-11ef-aceb-f46d3ffc5e71
+2024-09-30 00:47:24,406 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 77cd83e3-7e82-11ef-aceb-f46d3ffc5e71
+2024-09-30 00:49:29,345 tencent_speech.log-INFO  start:306 cb4cd30d-7e82-11ef-8a5a-f46d3ffc5e71 recognition start
+2024-09-30 00:49:44,503 tencent_speech.log-ERROR  on_message:246 cb4cd30d-7e82-11ef-8a5a-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:49:44,504 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id cb4cd30d-7e82-11ef-8a5a-f46d3ffc5e71
+2024-09-30 00:49:44,504 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id cb4cd30d-7e82-11ef-8a5a-f46d3ffc5e71
+2024-09-30 00:54:04,065 tencent_speech.log-INFO  start:306 6f0bed86-7e83-11ef-82ef-f46d3ffc5e71 recognition start
+2024-09-30 00:54:19,223 tencent_speech.log-ERROR  on_message:246 6f0bed86-7e83-11ef-82ef-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:54:19,225 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 6f0bed86-7e83-11ef-82ef-f46d3ffc5e71
+2024-09-30 00:54:19,226 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 6f0bed86-7e83-11ef-82ef-f46d3ffc5e71
+2024-09-30 00:55:43,688 tencent_speech.log-INFO  start:306 aa6d34e4-7e83-11ef-ae9c-f46d3ffc5e71 recognition start
+2024-09-30 00:55:58,851 tencent_speech.log-ERROR  on_message:246 aa6d34e4-7e83-11ef-ae9c-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:55:58,851 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id aa6d34e4-7e83-11ef-ae9c-f46d3ffc5e71
+2024-09-30 00:55:58,853 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id aa6d34e4-7e83-11ef-ae9c-f46d3ffc5e71
+2024-09-30 00:57:30,605 tencent_speech.log-INFO  start:306 ea276e30-7e83-11ef-a728-f46d3ffc5e71 recognition start
+2024-09-30 00:57:45,747 tencent_speech.log-ERROR  on_message:246 ea276e30-7e83-11ef-a728-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 00:57:45,749 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id ea276e30-7e83-11ef-a728-f46d3ffc5e71
+2024-09-30 00:57:45,750 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id ea276e30-7e83-11ef-a728-f46d3ffc5e71
+2024-09-30 01:07:41,853 tencent_speech.log-INFO  start:306 567c6dbe-7e85-11ef-bcb8-f46d3ffc5e71 recognition start
+2024-09-30 01:07:57,020 tencent_speech.log-ERROR  on_message:246 567c6dbe-7e85-11ef-bcb8-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 01:07:57,021 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 567c6dbe-7e85-11ef-bcb8-f46d3ffc5e71
+2024-09-30 01:07:57,022 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 567c6dbe-7e85-11ef-bcb8-f46d3ffc5e71
+2024-09-30 01:10:31,967 tencent_speech.log-INFO  start:306 bbe1f2d6-7e85-11ef-836a-f46d3ffc5e71 recognition start
+2024-09-30 01:10:47,117 tencent_speech.log-ERROR  on_message:246 bbe1f2d6-7e85-11ef-836a-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 01:10:47,120 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id bbe1f2d6-7e85-11ef-836a-f46d3ffc5e71
+2024-09-30 01:10:47,122 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id bbe1f2d6-7e85-11ef-836a-f46d3ffc5e71
+2024-09-30 01:12:16,011 tencent_speech.log-INFO  start:306 f9e59e95-7e85-11ef-95b4-f46d3ffc5e71 recognition start
+2024-09-30 01:12:31,148 tencent_speech.log-ERROR  on_message:246 f9e59e95-7e85-11ef-95b4-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 01:12:31,150 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id f9e59e95-7e85-11ef-95b4-f46d3ffc5e71
+2024-09-30 01:12:31,151 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id f9e59e95-7e85-11ef-95b4-f46d3ffc5e71
+2024-09-30 01:20:19,455 tencent_speech.log-INFO  start:306 1a0d30e7-7e87-11ef-92dc-f46d3ffc5e71 recognition start
+2024-09-30 01:20:20,584 tencent_speech.log-ERROR  on_message:246 1a0d30e7-7e87-11ef-92dc-f46d3ffc5e71 server recognition fail 音频解码失败，请检查上传音频数据格式与调用参数一致
+2024-09-30 01:20:20,585 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 1a0d30e7-7e87-11ef-92dc-f46d3ffc5e71
+2024-09-30 01:20:20,587 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 1a0d30e7-7e87-11ef-92dc-f46d3ffc5e71
+2024-09-30 02:37:39,855 tencent_speech.log-INFO  start:306 e7f2076d-7e91-11ef-8f86-f46d3ffc5e71 recognition start
+2024-09-30 02:37:41,688 tencent_speech.log-ERROR  on_message:246 e7f2076d-7e91-11ef-8f86-f46d3ffc5e71 server recognition fail 音频解码失败，请检查上传音频数据格式与调用参数一致
+2024-09-30 02:37:41,690 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id e7f2076d-7e91-11ef-8f86-f46d3ffc5e71
+2024-09-30 02:37:41,690 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id e7f2076d-7e91-11ef-8f86-f46d3ffc5e71
+2024-09-30 03:24:20,331 tencent_speech.log-INFO  start:306 6d282526-7e98-11ef-9506-f46d3ffc5e71 recognition start
+2024-09-30 03:24:35,515 tencent_speech.log-ERROR  on_message:246 6d282526-7e98-11ef-9506-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:24:35,519 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 6d282526-7e98-11ef-9506-f46d3ffc5e71
+2024-09-30 03:24:35,520 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 6d282526-7e98-11ef-9506-f46d3ffc5e71
+2024-09-30 03:27:39,418 tencent_speech.log-INFO  start:306 e3d2e83a-7e98-11ef-98d7-f46d3ffc5e71 recognition start
+2024-09-30 03:27:54,588 tencent_speech.log-ERROR  on_message:246 e3d2e83a-7e98-11ef-98d7-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:27:54,589 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id e3d2e83a-7e98-11ef-98d7-f46d3ffc5e71
+2024-09-30 03:27:54,590 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id e3d2e83a-7e98-11ef-98d7-f46d3ffc5e71
+2024-09-30 03:29:17,816 tencent_speech.log-INFO  start:306 1e794da5-7e99-11ef-8ed2-f46d3ffc5e71 recognition start
+2024-09-30 03:29:32,985 tencent_speech.log-ERROR  on_message:246 1e794da5-7e99-11ef-8ed2-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:29:32,986 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 1e794da5-7e99-11ef-8ed2-f46d3ffc5e71
+2024-09-30 03:29:32,987 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 1e794da5-7e99-11ef-8ed2-f46d3ffc5e71
+2024-09-30 03:35:19,128 tencent_speech.log-INFO  start:306 f5d536cf-7e99-11ef-bbe1-f46d3ffc5e71 recognition start
+2024-09-30 03:35:34,281 tencent_speech.log-ERROR  on_message:246 f5d536cf-7e99-11ef-bbe1-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:35:34,283 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id f5d536cf-7e99-11ef-bbe1-f46d3ffc5e71
+2024-09-30 03:35:34,283 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id f5d536cf-7e99-11ef-bbe1-f46d3ffc5e71
+2024-09-30 03:38:38,477 tencent_speech.log-INFO  start:306 6ca7b44b-7e9a-11ef-b6b3-f46d3ffc5e71 recognition start
+2024-09-30 03:38:53,657 tencent_speech.log-ERROR  on_message:246 6ca7b44b-7e9a-11ef-b6b3-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:38:53,658 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 6ca7b44b-7e9a-11ef-b6b3-f46d3ffc5e71
+2024-09-30 03:38:53,659 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 6ca7b44b-7e9a-11ef-b6b3-f46d3ffc5e71
+2024-09-30 03:43:06,891 tencent_speech.log-INFO  start:306 0ca41ab9-7e9b-11ef-8a07-f46d3ffc5e71 recognition start
+2024-09-30 03:43:22,036 tencent_speech.log-ERROR  on_message:246 0ca41ab9-7e9b-11ef-8a07-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:43:22,038 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 0ca41ab9-7e9b-11ef-8a07-f46d3ffc5e71
+2024-09-30 03:43:22,039 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 0ca41ab9-7e9b-11ef-8a07-f46d3ffc5e71
+2024-09-30 03:45:07,155 tencent_speech.log-INFO  start:306 54530faa-7e9b-11ef-98b6-f46d3ffc5e71 recognition start
+2024-09-30 03:45:22,318 tencent_speech.log-ERROR  on_message:246 54530faa-7e9b-11ef-98b6-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:45:22,319 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 54530faa-7e9b-11ef-98b6-f46d3ffc5e71
+2024-09-30 03:45:22,320 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 54530faa-7e9b-11ef-98b6-f46d3ffc5e71
+2024-09-30 03:48:05,677 tencent_speech.log-INFO  start:306 bebb6c34-7e9b-11ef-be33-f46d3ffc5e71 recognition start
+2024-09-30 03:48:20,834 tencent_speech.log-ERROR  on_message:246 bebb6c34-7e9b-11ef-be33-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:48:20,836 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id bebb6c34-7e9b-11ef-be33-f46d3ffc5e71
+2024-09-30 03:48:20,838 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id bebb6c34-7e9b-11ef-be33-f46d3ffc5e71
+2024-09-30 03:49:02,696 tencent_speech.log-INFO  start:306 e0b7f2a9-7e9b-11ef-bfec-f46d3ffc5e71 recognition start
+2024-09-30 03:49:17,902 tencent_speech.log-ERROR  on_message:246 e0b7f2a9-7e9b-11ef-bfec-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 03:49:17,905 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id e0b7f2a9-7e9b-11ef-bfec-f46d3ffc5e71
+2024-09-30 03:49:17,907 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id e0b7f2a9-7e9b-11ef-bfec-f46d3ffc5e71
+2024-09-30 04:30:55,599 tencent_speech.log-INFO  start:306 ba86687a-7ea1-11ef-acd7-f46d3ffc5e71 recognition start
+2024-09-30 04:32:44,860 tencent_speech.log-INFO  start:306 fba637ee-7ea1-11ef-8ac0-f46d3ffc5e71 recognition start
+2024-09-30 04:33:00,962 tencent_speech.log-ERROR  on_message:246 fba637ee-7ea1-11ef-8ac0-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 04:33:00,964 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id fba637ee-7ea1-11ef-8ac0-f46d3ffc5e71
+2024-09-30 04:33:00,965 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id fba637ee-7ea1-11ef-8ac0-f46d3ffc5e71
+2024-09-30 04:36:43,228 tencent_speech.log-INFO  start:306 89ba615b-7ea2-11ef-ae04-f46d3ffc5e71 recognition start
+2024-09-30 04:37:13,631 tencent_speech.log-ERROR  on_message:246 89ba615b-7ea2-11ef-ae04-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 04:37:13,633 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 89ba615b-7ea2-11ef-ae04-f46d3ffc5e71
+2024-09-30 04:37:13,634 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 89ba615b-7ea2-11ef-ae04-f46d3ffc5e71
+2024-09-30 04:38:31,079 tencent_speech.log-INFO  start:306 ca02c62d-7ea2-11ef-b208-f46d3ffc5e71 recognition start
+2024-09-30 04:40:13,908 tencent_speech.log-ERROR  on_message:246 ca02c62d-7ea2-11ef-b208-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 04:40:13,910 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id ca02c62d-7ea2-11ef-b208-f46d3ffc5e71
+2024-09-30 04:40:13,911 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id ca02c62d-7ea2-11ef-b208-f46d3ffc5e71
+2024-09-30 04:44:24,164 tencent_speech.log-INFO  start:306 9c778a8e-7ea3-11ef-b7d0-f46d3ffc5e71 recognition start
+2024-09-30 04:45:47,619 tencent_speech.log-ERROR  on_message:246 9c778a8e-7ea3-11ef-b7d0-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 04:45:47,621 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 9c778a8e-7ea3-11ef-b7d0-f46d3ffc5e71
+2024-09-30 04:45:47,622 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 9c778a8e-7ea3-11ef-b7d0-f46d3ffc5e71
+2024-09-30 04:50:04,741 tencent_speech.log-INFO  start:306 67776f46-7ea4-11ef-b639-f46d3ffc5e71 recognition start
+2024-09-30 04:50:10,941 tencent_speech.log-ERROR  on_error:270 websocket error name 'rsp_str' is not defined  voice id 67776f46-7ea4-11ef-b639-f46d3ffc5e71
+2024-09-30 04:50:10,991 tencent_speech.log-ERROR  on_error:270 websocket error name 'rsp_str' is not defined  voice id 67776f46-7ea4-11ef-b639-f46d3ffc5e71
+2024-09-30 04:50:25,972 tencent_speech.log-ERROR  on_message:246 67776f46-7ea4-11ef-b639-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 04:50:25,974 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 67776f46-7ea4-11ef-b639-f46d3ffc5e71
+2024-09-30 04:50:25,975 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 67776f46-7ea4-11ef-b639-f46d3ffc5e71
+2024-09-30 04:52:08,623 tencent_speech.log-INFO  start:306 b14e39e8-7ea4-11ef-a875-f46d3ffc5e71 recognition start
+2024-09-30 04:56:17,425 tencent_speech.log-INFO  start:306 459a533b-7ea5-11ef-afc3-f46d3ffc5e71 recognition start
+2024-09-30 04:58:07,609 tencent_speech.log-INFO  start:306 87473e40-7ea5-11ef-9161-f46d3ffc5e71 recognition start
+2024-09-30 04:58:34,141 tencent_speech.log-ERROR  on_message:246 87473e40-7ea5-11ef-9161-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 04:58:34,142 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 87473e40-7ea5-11ef-9161-f46d3ffc5e71
+2024-09-30 04:58:34,142 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 87473e40-7ea5-11ef-9161-f46d3ffc5e71
+2024-09-30 04:58:48,724 tencent_speech.log-INFO  start:306 9fc94dca-7ea5-11ef-a8e6-f46d3ffc5e71 recognition start
+2024-09-30 05:04:53,751 tencent_speech.log-ERROR  on_message:246 9fc94dca-7ea5-11ef-a8e6-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:04:53,753 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 9fc94dca-7ea5-11ef-a8e6-f46d3ffc5e71
+2024-09-30 05:04:53,755 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 9fc94dca-7ea5-11ef-a8e6-f46d3ffc5e71
+2024-09-30 05:07:32,513 tencent_speech.log-INFO  start:306 d7fce14c-7ea6-11ef-b504-f46d3ffc5e71 recognition start
+2024-09-30 05:07:59,848 tencent_speech.log-ERROR  on_message:246 d7fce14c-7ea6-11ef-b504-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:07:59,850 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id d7fce14c-7ea6-11ef-b504-f46d3ffc5e71
+2024-09-30 05:07:59,851 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id d7fce14c-7ea6-11ef-b504-f46d3ffc5e71
+2024-09-30 05:08:27,744 tencent_speech.log-INFO  start:306 f8e85f9e-7ea6-11ef-96f6-f46d3ffc5e71 recognition start
+2024-09-30 05:08:50,061 tencent_speech.log-ERROR  on_message:246 f8e85f9e-7ea6-11ef-96f6-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:08:50,061 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id f8e85f9e-7ea6-11ef-96f6-f46d3ffc5e71
+2024-09-30 05:08:50,062 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id f8e85f9e-7ea6-11ef-96f6-f46d3ffc5e71
+2024-09-30 05:09:20,562 tencent_speech.log-INFO  start:306 1863e839-7ea7-11ef-8f53-f46d3ffc5e71 recognition start
+2024-09-30 05:11:49,002 tencent_speech.log-INFO  start:306 70de24b6-7ea7-11ef-a4a3-f46d3ffc5e71 recognition start
+2024-09-30 05:12:14,896 tencent_speech.log-ERROR  on_message:246 70de24b6-7ea7-11ef-a4a3-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:12:14,898 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 70de24b6-7ea7-11ef-a4a3-f46d3ffc5e71
+2024-09-30 05:12:14,899 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 70de24b6-7ea7-11ef-a4a3-f46d3ffc5e71
+2024-09-30 05:16:01,174 tencent_speech.log-INFO  start:306 072c4ad3-7ea8-11ef-8d4c-f46d3ffc5e71 recognition start
+2024-09-30 05:16:28,854 tencent_speech.log-ERROR  on_error:270 websocket error 'list' object has no attribute 'to_json'  voice id 072c4ad3-7ea8-11ef-8d4c-f46d3ffc5e71
+2024-09-30 05:16:43,826 tencent_speech.log-ERROR  on_message:246 072c4ad3-7ea8-11ef-8d4c-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:16:43,828 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 072c4ad3-7ea8-11ef-8d4c-f46d3ffc5e71
+2024-09-30 05:16:43,829 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 072c4ad3-7ea8-11ef-8d4c-f46d3ffc5e71
+2024-09-30 05:19:29,651 tencent_speech.log-INFO  start:306 836f86f3-7ea8-11ef-b578-f46d3ffc5e71 recognition start
+2024-09-30 05:20:19,451 tencent_speech.log-ERROR  on_message:246 836f86f3-7ea8-11ef-b578-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:20:19,452 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 836f86f3-7ea8-11ef-b578-f46d3ffc5e71
+2024-09-30 05:20:19,453 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 836f86f3-7ea8-11ef-b578-f46d3ffc5e71
+2024-09-30 05:22:57,004 tencent_speech.log-INFO  start:306 ff06fbfa-7ea8-11ef-a233-f46d3ffc5e71 recognition start
+2024-09-30 05:23:36,577 tencent_speech.log-ERROR  on_message:246 ff06fbfa-7ea8-11ef-a233-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:23:36,579 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id ff06fbfa-7ea8-11ef-a233-f46d3ffc5e71
+2024-09-30 05:23:36,579 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id ff06fbfa-7ea8-11ef-a233-f46d3ffc5e71
+2024-09-30 05:24:55,971 tencent_speech.log-INFO  start:306 45efd333-7ea9-11ef-9308-f46d3ffc5e71 recognition start
+2024-09-30 05:27:58,396 tencent_speech.log-INFO  start:306 b2abad45-7ea9-11ef-9d62-f46d3ffc5e71 recognition start
+2024-09-30 05:32:18,965 tencent_speech.log-INFO  start:306 4df9d169-7eaa-11ef-8faf-f46d3ffc5e71 recognition start
+2024-09-30 05:32:47,339 tencent_speech.log-ERROR  on_message:246 4df9d169-7eaa-11ef-8faf-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:32:47,341 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 4df9d169-7eaa-11ef-8faf-f46d3ffc5e71
+2024-09-30 05:32:47,342 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 4df9d169-7eaa-11ef-8faf-f46d3ffc5e71
+2024-09-30 05:42:36,051 tencent_speech.log-INFO  start:306 bdcb4445-7eab-11ef-8d2d-f46d3ffc5e71 recognition start
+2024-09-30 05:43:25,548 tencent_speech.log-INFO  start:306 db4c217f-7eab-11ef-9d8d-f46d3ffc5e71 recognition start
+2024-09-30 05:43:37,045 tencent_speech.log-ERROR  on_message:246 bdcb4445-7eab-11ef-8d2d-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:43:37,046 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id bdcb4445-7eab-11ef-8d2d-f46d3ffc5e71
+2024-09-30 05:43:37,047 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id bdcb4445-7eab-11ef-8d2d-f46d3ffc5e71
+2024-09-30 05:46:16,734 tencent_speech.log-ERROR  on_message:246 db4c217f-7eab-11ef-9d8d-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:46:16,735 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id db4c217f-7eab-11ef-9d8d-f46d3ffc5e71
+2024-09-30 05:46:16,736 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id db4c217f-7eab-11ef-9d8d-f46d3ffc5e71
+2024-09-30 05:49:49,379 tencent_speech.log-INFO  start:306 c013f1a2-7eac-11ef-b9b0-f46d3ffc5e71 recognition start
+2024-09-30 05:50:43,225 tencent_speech.log-ERROR  on_message:246 c013f1a2-7eac-11ef-b9b0-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 05:50:43,226 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id c013f1a2-7eac-11ef-b9b0-f46d3ffc5e71
+2024-09-30 05:50:43,226 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id c013f1a2-7eac-11ef-b9b0-f46d3ffc5e71
+2024-09-30 18:40:48,750 tencent_speech.log-INFO  start:306 74cfc18b-7f18-11ef-a5bf-f46d3ffc5e71 recognition start
+2024-09-30 18:42:41,782 tencent_speech.log-ERROR  on_message:246 74cfc18b-7f18-11ef-a5bf-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 18:42:41,784 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 74cfc18b-7f18-11ef-a5bf-f46d3ffc5e71
+2024-09-30 18:42:41,786 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id 74cfc18b-7f18-11ef-a5bf-f46d3ffc5e71
+2024-09-30 18:49:22,787 tencent_speech.log-INFO  start:306 a733afd0-7f19-11ef-b0fd-f46d3ffc5e71 recognition start
+2024-09-30 18:53:23,315 tencent_speech.log-ERROR  on_message:246 a733afd0-7f19-11ef-b0fd-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 18:53:23,318 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id a733afd0-7f19-11ef-b0fd-f46d3ffc5e71
+2024-09-30 18:53:23,320 tencent_speech.log-ERROR  on_error:270 websocket error SpeechRecognizer.start.<locals>.on_close() takes 1 positional argument but 3 were given  voice id a733afd0-7f19-11ef-b0fd-f46d3ffc5e71
+2024-09-30 18:56:40,904 tencent_speech.log-INFO  start:307 ac56ff83-7f1a-11ef-9861-f46d3ffc5e71 recognition start
+2024-09-30 19:06:37,837 tencent_speech.log-INFO  start:307 10237e1f-7f1c-11ef-9517-f46d3ffc5e71 recognition start
+2024-09-30 19:07:15,970 tencent_speech.log-INFO  start:307 26de30fa-7f1c-11ef-b44f-f46d3ffc5e71 recognition start
+2024-09-30 19:08:03,697 tencent_speech.log-ERROR  on_message:246 26de30fa-7f1c-11ef-b44f-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:08:03,699 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 26de30fa-7f1c-11ef-b44f-f46d3ffc5e71
+2024-09-30 19:08:03,701 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 26de30fa-7f1c-11ef-b44f-f46d3ffc5e71
+2024-09-30 19:08:03,702 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:08:36,845 tencent_speech.log-INFO  start:307 5712f59a-7f1c-11ef-8746-f46d3ffc5e71 recognition start
+2024-09-30 19:10:05,367 tencent_speech.log-ERROR  on_message:246 5712f59a-7f1c-11ef-8746-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:10:05,370 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 5712f59a-7f1c-11ef-8746-f46d3ffc5e71
+2024-09-30 19:10:05,371 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 5712f59a-7f1c-11ef-8746-f46d3ffc5e71
+2024-09-30 19:10:05,372 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:13:26,373 tencent_speech.log-INFO  start:307 03a55635-7f1d-11ef-9799-f46d3ffc5e71 recognition start
+2024-09-30 19:14:05,960 tencent_speech.log-ERROR  on_message:246 03a55635-7f1d-11ef-9799-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:14:05,963 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 03a55635-7f1d-11ef-9799-f46d3ffc5e71
+2024-09-30 19:14:05,964 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 03a55635-7f1d-11ef-9799-f46d3ffc5e71
+2024-09-30 19:14:05,965 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:15:06,525 tencent_speech.log-INFO  start:307 3f575748-7f1d-11ef-9ed4-f46d3ffc5e71 recognition start
+2024-09-30 19:15:27,838 tencent_speech.log-INFO  start:307 4c0b8b81-7f1d-11ef-b4a3-f46d3ffc5e71 recognition start
+2024-09-30 19:15:36,925 tencent_speech.log-ERROR  on_message:246 3f575748-7f1d-11ef-9ed4-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:15:36,927 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 3f575748-7f1d-11ef-9ed4-f46d3ffc5e71
+2024-09-30 19:15:36,929 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 3f575748-7f1d-11ef-9ed4-f46d3ffc5e71
+2024-09-30 19:15:36,930 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:15:44,377 tencent_speech.log-ERROR  on_message:246 4c0b8b81-7f1d-11ef-b4a3-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:15:44,380 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 4c0b8b81-7f1d-11ef-b4a3-f46d3ffc5e71
+2024-09-30 19:15:44,380 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 4c0b8b81-7f1d-11ef-b4a3-f46d3ffc5e71
+2024-09-30 19:15:44,382 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:28:56,517 tencent_speech.log-INFO  start:307 2e0ddd19-7f1f-11ef-b585-f46d3ffc5e71 recognition start
+2024-09-30 19:29:11,669 tencent_speech.log-ERROR  on_message:246 2e0ddd19-7f1f-11ef-b585-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:29:11,671 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 2e0ddd19-7f1f-11ef-b585-f46d3ffc5e71
+2024-09-30 19:29:11,672 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 2e0ddd19-7f1f-11ef-b585-f46d3ffc5e71
+2024-09-30 19:29:11,673 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:30:39,819 tencent_speech.log-INFO  start:307 6ba0a694-7f1f-11ef-83f9-f46d3ffc5e71 recognition start
+2024-09-30 19:30:54,963 tencent_speech.log-ERROR  on_message:246 6ba0a694-7f1f-11ef-83f9-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:30:54,965 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 6ba0a694-7f1f-11ef-83f9-f46d3ffc5e71
+2024-09-30 19:30:54,966 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 6ba0a694-7f1f-11ef-83f9-f46d3ffc5e71
+2024-09-30 19:30:54,967 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:35:43,990 tencent_speech.log-INFO  start:307 20ed7aca-7f20-11ef-8d0a-f46d3ffc5e71 recognition start
+2024-09-30 19:35:59,132 tencent_speech.log-ERROR  on_message:246 20ed7aca-7f20-11ef-8d0a-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:35:59,134 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 20ed7aca-7f20-11ef-8d0a-f46d3ffc5e71
+2024-09-30 19:35:59,135 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 20ed7aca-7f20-11ef-8d0a-f46d3ffc5e71
+2024-09-30 19:35:59,136 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:36:18,486 tencent_speech.log-INFO  start:307 357d3457-7f20-11ef-9318-f46d3ffc5e71 recognition start
+2024-09-30 19:38:50,416 tencent_speech.log-ERROR  on_message:246 357d3457-7f20-11ef-9318-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:38:50,418 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 357d3457-7f20-11ef-9318-f46d3ffc5e71
+2024-09-30 19:38:50,419 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 357d3457-7f20-11ef-9318-f46d3ffc5e71
+2024-09-30 19:38:50,420 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:41:22,295 tencent_speech.log-INFO  start:307 ea928da4-7f20-11ef-bad8-f46d3ffc5e71 recognition start
+2024-09-30 19:43:02,567 tencent_speech.log-INFO  start:307 26570dcc-7f21-11ef-82bf-f46d3ffc5e71 recognition start
+2024-09-30 19:46:01,959 tencent_speech.log-INFO  start:307 91441c24-7f21-11ef-9c03-f46d3ffc5e71 recognition start
+2024-09-30 19:47:49,662 tencent_speech.log-INFO  start:307 d176061c-7f21-11ef-865d-f46d3ffc5e71 recognition start
+2024-09-30 19:48:22,282 tencent_speech.log-ERROR  on_message:246 d176061c-7f21-11ef-865d-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:48:22,284 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id d176061c-7f21-11ef-865d-f46d3ffc5e71
+2024-09-30 19:48:22,286 tencent_speech.log-INFO  on_close:276 websocket closed  voice id d176061c-7f21-11ef-865d-f46d3ffc5e71
+2024-09-30 19:48:22,287 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:56:34,997 tencent_speech.log-INFO  start:307 0a9606fb-7f23-11ef-8390-f46d3ffc5e71 recognition start
+2024-09-30 19:56:50,151 tencent_speech.log-ERROR  on_message:246 0a9606fb-7f23-11ef-8390-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:56:50,154 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 0a9606fb-7f23-11ef-8390-f46d3ffc5e71
+2024-09-30 19:56:50,155 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 0a9606fb-7f23-11ef-8390-f46d3ffc5e71
+2024-09-30 19:56:50,156 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:57:11,460 tencent_speech.log-INFO  start:307 2051d233-7f23-11ef-9ee9-f46d3ffc5e71 recognition start
+2024-09-30 19:57:26,635 tencent_speech.log-ERROR  on_message:246 2051d233-7f23-11ef-9ee9-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:57:26,638 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 2051d233-7f23-11ef-9ee9-f46d3ffc5e71
+2024-09-30 19:57:26,638 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 2051d233-7f23-11ef-9ee9-f46d3ffc5e71
+2024-09-30 19:57:26,639 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 19:58:26,943 tencent_speech.log-INFO  start:307 4d4f976c-7f23-11ef-b0c9-f46d3ffc5e71 recognition start
+2024-09-30 19:59:13,835 tencent_speech.log-ERROR  on_message:246 4d4f976c-7f23-11ef-b0c9-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 19:59:13,838 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 4d4f976c-7f23-11ef-b0c9-f46d3ffc5e71
+2024-09-30 19:59:13,839 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 4d4f976c-7f23-11ef-b0c9-f46d3ffc5e71
+2024-09-30 19:59:13,840 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 20:01:40,380 tencent_speech.log-INFO  start:307 c09bde59-7f23-11ef-a6ba-f46d3ffc5e71 recognition start
+2024-09-30 20:06:00,427 tencent_speech.log-INFO  start:307 5b9bcc71-7f24-11ef-9a5d-f46d3ffc5e71 recognition start
+2024-09-30 20:12:02,287 tencent_speech.log-INFO  start:307 334b246d-7f25-11ef-a6a7-f46d3ffc5e71 recognition start
+2024-09-30 20:12:17,465 tencent_speech.log-ERROR  on_message:246 334b246d-7f25-11ef-a6a7-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 20:12:17,467 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 334b246d-7f25-11ef-a6a7-f46d3ffc5e71
+2024-09-30 20:12:17,469 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 334b246d-7f25-11ef-a6a7-f46d3ffc5e71
+2024-09-30 20:12:17,470 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 20:18:56,916 tencent_speech.log-INFO  start:307 2a6e3642-7f26-11ef-8763-f46d3ffc5e71 recognition start
+2024-09-30 20:19:12,068 tencent_speech.log-ERROR  on_message:246 2a6e3642-7f26-11ef-8763-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 20:19:12,070 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 2a6e3642-7f26-11ef-8763-f46d3ffc5e71
+2024-09-30 20:19:12,071 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 2a6e3642-7f26-11ef-8763-f46d3ffc5e71
+2024-09-30 20:19:12,071 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 21:52:01,691 tencent_speech.log-INFO  start:307 2b364189-7f33-11ef-b8d3-f46d3ffc5e71 recognition start
+2024-09-30 21:54:41,715 tencent_speech.log-ERROR  on_message:246 2b364189-7f33-11ef-b8d3-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 21:54:41,718 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 2b364189-7f33-11ef-b8d3-f46d3ffc5e71
+2024-09-30 21:54:41,721 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 2b364189-7f33-11ef-b8d3-f46d3ffc5e71
+2024-09-30 21:54:41,721 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 21:55:34,731 tencent_speech.log-INFO  start:307 aa3138ea-7f33-11ef-89f1-f46d3ffc5e71 recognition start
+2024-09-30 21:56:46,036 tencent_speech.log-ERROR  on_message:246 aa3138ea-7f33-11ef-89f1-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 21:56:46,038 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id aa3138ea-7f33-11ef-89f1-f46d3ffc5e71
+2024-09-30 21:56:46,038 tencent_speech.log-INFO  on_close:276 websocket closed  voice id aa3138ea-7f33-11ef-89f1-f46d3ffc5e71
+2024-09-30 21:56:46,039 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 22:31:12,167 tencent_speech.log-INFO  start:307 a435aae3-7f38-11ef-8ea7-f46d3ffc5e71 recognition start
+2024-09-30 22:31:58,916 tencent_speech.log-ERROR  on_message:246 a435aae3-7f38-11ef-8ea7-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 22:31:58,918 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id a435aae3-7f38-11ef-8ea7-f46d3ffc5e71
+2024-09-30 22:31:58,919 tencent_speech.log-INFO  on_close:276 websocket closed  voice id a435aae3-7f38-11ef-8ea7-f46d3ffc5e71
+2024-09-30 22:31:58,920 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 22:36:46,784 tencent_speech.log-INFO  start:307 6ba5f2d4-7f39-11ef-9fa7-f46d3ffc5e71 recognition start
+2024-09-30 22:37:59,794 tencent_speech.log-ERROR  on_message:246 6ba5f2d4-7f39-11ef-9fa7-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 22:37:59,797 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 6ba5f2d4-7f39-11ef-9fa7-f46d3ffc5e71
+2024-09-30 22:37:59,799 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 6ba5f2d4-7f39-11ef-9fa7-f46d3ffc5e71
+2024-09-30 22:37:59,800 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 22:56:51,967 tencent_speech.log-INFO  start:307 3a00801c-7f3c-11ef-be69-f46d3ffc5e71 recognition start
+2024-09-30 22:57:07,348 tencent_speech.log-ERROR  on_message:246 3a00801c-7f3c-11ef-be69-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 22:57:07,371 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 3a00801c-7f3c-11ef-be69-f46d3ffc5e71
+2024-09-30 22:57:07,377 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 3a00801c-7f3c-11ef-be69-f46d3ffc5e71
+2024-09-30 22:57:07,378 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 22:57:42,458 tencent_speech.log-INFO  start:307 58185bd7-7f3c-11ef-9b8a-f46d3ffc5e71 recognition start
+2024-09-30 22:57:58,109 tencent_speech.log-ERROR  on_message:246 58185bd7-7f3c-11ef-9b8a-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 22:57:58,111 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 58185bd7-7f3c-11ef-9b8a-f46d3ffc5e71
+2024-09-30 22:57:58,113 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 58185bd7-7f3c-11ef-9b8a-f46d3ffc5e71
+2024-09-30 22:57:58,115 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 22:58:16,250 tencent_speech.log-INFO  start:307 6c3d2a7e-7f3c-11ef-afad-f46d3ffc5e71 recognition start
+2024-09-30 22:58:31,593 tencent_speech.log-ERROR  on_message:246 6c3d2a7e-7f3c-11ef-afad-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 22:58:31,598 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 6c3d2a7e-7f3c-11ef-afad-f46d3ffc5e71
+2024-09-30 22:58:31,600 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 6c3d2a7e-7f3c-11ef-afad-f46d3ffc5e71
+2024-09-30 22:58:31,603 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 22:59:11,638 tencent_speech.log-INFO  start:307 8d40b2e7-7f3c-11ef-8b51-f46d3ffc5e71 recognition start
+2024-09-30 23:05:49,318 tencent_speech.log-INFO  start:307 7a48fe5a-7f3d-11ef-bbde-f46d3ffc5e71 recognition start
+2024-09-30 23:07:02,631 tencent_speech.log-ERROR  on_message:246 7a48fe5a-7f3d-11ef-bbde-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 23:07:02,636 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 7a48fe5a-7f3d-11ef-bbde-f46d3ffc5e71
+2024-09-30 23:07:02,644 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 7a48fe5a-7f3d-11ef-bbde-f46d3ffc5e71
+2024-09-30 23:07:02,644 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 23:08:55,106 tencent_speech.log-INFO  start:307 e906b12b-7f3d-11ef-aba8-f46d3ffc5e71 recognition start
+2024-09-30 23:09:32,663 tencent_speech.log-ERROR  on_message:246 e906b12b-7f3d-11ef-aba8-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 23:09:32,676 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id e906b12b-7f3d-11ef-aba8-f46d3ffc5e71
+2024-09-30 23:09:32,677 tencent_speech.log-INFO  on_close:276 websocket closed  voice id e906b12b-7f3d-11ef-aba8-f46d3ffc5e71
+2024-09-30 23:09:32,678 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 23:11:12,155 tencent_speech.log-INFO  start:307 3ab6be14-7f3e-11ef-acb3-f46d3ffc5e71 recognition start
+2024-09-30 23:11:45,962 tencent_speech.log-ERROR  on_message:246 3ab6be14-7f3e-11ef-acb3-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 23:11:45,967 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 3ab6be14-7f3e-11ef-acb3-f46d3ffc5e71
+2024-09-30 23:11:45,969 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 3ab6be14-7f3e-11ef-acb3-f46d3ffc5e71
+2024-09-30 23:11:45,970 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 23:18:44,231 tencent_speech.log-INFO  start:307 482bd4aa-7f3f-11ef-a743-f46d3ffc5e71 recognition start
+2024-09-30 23:19:05,950 tencent_speech.log-INFO  start:307 551de360-7f3f-11ef-b559-f46d3ffc5e71 recognition start
+2024-09-30 23:19:10,502 tencent_speech.log-ERROR  on_message:246 482bd4aa-7f3f-11ef-a743-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 23:19:10,504 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 482bd4aa-7f3f-11ef-a743-f46d3ffc5e71
+2024-09-30 23:19:10,504 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 482bd4aa-7f3f-11ef-a743-f46d3ffc5e71
+2024-09-30 23:19:10,505 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-09-30 23:20:27,392 tencent_speech.log-ERROR  on_message:246 551de360-7f3f-11ef-b559-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-09-30 23:20:27,394 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 551de360-7f3f-11ef-b559-f46d3ffc5e71
+2024-09-30 23:20:27,396 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 551de360-7f3f-11ef-b559-f46d3ffc5e71
+2024-09-30 23:20:27,396 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 11:13:52,178 tencent_speech.log-INFO  start:307 5831e67c-8523-11ef-a008-f46d3ffc5e71 recognition start
+2024-10-08 11:45:47,825 tencent_speech.log-INFO  start:307 ce01dbda-8527-11ef-93e5-f46d3ffc5e71 recognition start
+2024-10-08 11:46:30,475 tencent_speech.log-ERROR  on_message:246 ce01dbda-8527-11ef-93e5-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 11:46:30,478 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id ce01dbda-8527-11ef-93e5-f46d3ffc5e71
+2024-10-08 11:46:30,479 tencent_speech.log-INFO  on_close:276 websocket closed  voice id ce01dbda-8527-11ef-93e5-f46d3ffc5e71
+2024-10-08 11:46:30,481 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 11:52:45,750 tencent_speech.log-INFO  start:307 c71cb487-8528-11ef-8e38-f46d3ffc5e71 recognition start
+2024-10-08 11:56:56,033 tencent_speech.log-INFO  start:307 5c4a87ec-8529-11ef-aca9-f46d3ffc5e71 recognition start
+2024-10-08 12:14:20,363 tencent_speech.log-INFO  start:307 cac2b9f1-852b-11ef-bcad-f46d3ffc5e71 recognition start
+2024-10-08 12:17:53,988 tencent_speech.log-INFO  start:307 4a172a75-852c-11ef-906d-f46d3ffc5e71 recognition start
+2024-10-08 13:02:54,114 tencent_speech.log-INFO  start:307 937dc55a-8532-11ef-8f5c-f46d3ffc5e71 recognition start
+2024-10-08 13:03:36,766 tencent_speech.log-ERROR  on_message:246 937dc55a-8532-11ef-8f5c-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 13:03:36,767 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 937dc55a-8532-11ef-8f5c-f46d3ffc5e71
+2024-10-08 13:03:36,769 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 937dc55a-8532-11ef-8f5c-f46d3ffc5e71
+2024-10-08 13:03:36,769 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 13:59:42,270 tencent_speech.log-INFO  start:307 82e91c93-853a-11ef-a65f-f46d3ffc5e71 recognition start
+2024-10-08 14:03:07,385 tencent_speech.log-INFO  start:307 fd2a63a9-853a-11ef-88d5-f46d3ffc5e71 recognition start
+2024-10-08 14:05:42,745 tencent_speech.log-INFO  start:307 59c58093-853b-11ef-99b2-f46d3ffc5e71 recognition start
+2024-10-08 14:06:17,944 tencent_speech.log-ERROR  on_message:246 59c58093-853b-11ef-99b2-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 14:06:17,946 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 59c58093-853b-11ef-99b2-f46d3ffc5e71
+2024-10-08 14:06:17,946 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 59c58093-853b-11ef-99b2-f46d3ffc5e71
+2024-10-08 14:06:17,946 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 14:13:16,022 tencent_speech.log-INFO  start:307 67f1bb29-853c-11ef-9e1a-f46d3ffc5e71 recognition start
+2024-10-08 14:21:37,066 tencent_speech.log-INFO  start:307 92964b7d-853d-11ef-8d21-f46d3ffc5e71 recognition start
+2024-10-08 14:22:12,389 tencent_speech.log-INFO  start:307 a7a4a192-853d-11ef-a0a4-f46d3ffc5e71 recognition start
+2024-10-08 14:22:41,835 tencent_speech.log-ERROR  on_message:246 a7a4a192-853d-11ef-a0a4-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 14:22:41,838 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id a7a4a192-853d-11ef-a0a4-f46d3ffc5e71
+2024-10-08 14:22:41,838 tencent_speech.log-INFO  on_close:276 websocket closed  voice id a7a4a192-853d-11ef-a0a4-f46d3ffc5e71
+2024-10-08 14:22:41,838 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 14:24:30,640 tencent_speech.log-INFO  start:307 fa0b9aa4-853d-11ef-9a6a-f46d3ffc5e71 recognition start
+2024-10-08 14:55:06,928 tencent_speech.log-INFO  start:307 408f90b8-8542-11ef-aa4c-f46d3ffc5e71 recognition start
+2024-10-08 14:55:23,894 tencent_speech.log-ERROR  on_message:246 408f90b8-8542-11ef-aa4c-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 14:55:23,897 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 408f90b8-8542-11ef-aa4c-f46d3ffc5e71
+2024-10-08 14:55:23,902 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 408f90b8-8542-11ef-aa4c-f46d3ffc5e71
+2024-10-08 14:55:23,904 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 14:55:50,775 tencent_speech.log-INFO  start:307 5ab1a365-8542-11ef-8981-f46d3ffc5e71 recognition start
+2024-10-08 15:01:43,407 tencent_speech.log-INFO  start:307 2ce0c6bf-8543-11ef-8cf5-f46d3ffc5e71 recognition start
+2024-10-08 15:02:51,218 tencent_speech.log-INFO  start:307 554c66c8-8543-11ef-a59a-f46d3ffc5e71 recognition start
+2024-10-08 15:13:28,356 tencent_speech.log-INFO  start:307 d10ffb9e-8544-11ef-92d5-f46d3ffc5e71 recognition start
+2024-10-08 15:14:11,062 tencent_speech.log-ERROR  on_message:246 d10ffb9e-8544-11ef-92d5-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 15:14:11,064 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id d10ffb9e-8544-11ef-92d5-f46d3ffc5e71
+2024-10-08 15:14:11,066 tencent_speech.log-INFO  on_close:276 websocket closed  voice id d10ffb9e-8544-11ef-92d5-f46d3ffc5e71
+2024-10-08 15:14:11,066 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 15:23:03,900 tencent_speech.log-INFO  start:307 281d16e8-8546-11ef-ae6b-f46d3ffc5e71 recognition start
+2024-10-08 15:23:41,663 tencent_speech.log-INFO  start:307 3e9eec6d-8546-11ef-8aee-f46d3ffc5e71 recognition start
+2024-10-08 15:35:09,128 tencent_speech.log-ERROR  on_message:246 3e9eec6d-8546-11ef-8aee-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 15:35:09,306 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 3e9eec6d-8546-11ef-8aee-f46d3ffc5e71
+2024-10-08 15:35:09,348 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 3e9eec6d-8546-11ef-8aee-f46d3ffc5e71
+2024-10-08 15:35:09,359 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 16:37:24,025 tencent_speech.log-INFO  start:307 8a8e2079-8550-11ef-99e7-f46d3ffc5e71 recognition start
+2024-10-08 16:39:58,886 tencent_speech.log-ERROR  on_message:246 8a8e2079-8550-11ef-99e7-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 16:39:58,888 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 8a8e2079-8550-11ef-99e7-f46d3ffc5e71
+2024-10-08 16:39:58,891 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 8a8e2079-8550-11ef-99e7-f46d3ffc5e71
+2024-10-08 16:39:58,892 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 16:44:52,244 tencent_speech.log-INFO  start:307 95b62dde-8551-11ef-bc67-f46d3ffc5e71 recognition start
+2024-10-08 16:45:47,136 tencent_speech.log-ERROR  on_message:246 95b62dde-8551-11ef-bc67-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 16:45:47,141 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 95b62dde-8551-11ef-bc67-f46d3ffc5e71
+2024-10-08 16:45:47,143 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 95b62dde-8551-11ef-bc67-f46d3ffc5e71
+2024-10-08 16:45:47,143 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 16:52:22,177 tencent_speech.log-INFO  start:307 a1e54b9b-8552-11ef-bdf4-f46d3ffc5e71 recognition start
+2024-10-08 16:53:12,065 tencent_speech.log-ERROR  on_message:246 a1e54b9b-8552-11ef-bdf4-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 16:53:12,072 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id a1e54b9b-8552-11ef-bdf4-f46d3ffc5e71
+2024-10-08 16:53:12,073 tencent_speech.log-INFO  on_close:276 websocket closed  voice id a1e54b9b-8552-11ef-bdf4-f46d3ffc5e71
+2024-10-08 16:53:12,074 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 17:34:35,541 tencent_speech.log-INFO  start:307 87e67614-8558-11ef-9c15-f46d3ffc5e71 recognition start
+2024-10-08 17:47:09,167 tencent_speech.log-INFO  start:307 49179db4-855a-11ef-a5e7-f46d3ffc5e71 recognition start
+2024-10-08 17:53:22,013 tencent_speech.log-INFO  start:307 2753c88d-855b-11ef-a85e-f46d3ffc5e71 recognition start
+2024-10-08 17:53:47,364 tencent_speech.log-ERROR  on_message:246 2753c88d-855b-11ef-a85e-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 17:53:47,418 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 2753c88d-855b-11ef-a85e-f46d3ffc5e71
+2024-10-08 17:53:47,418 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 2753c88d-855b-11ef-a85e-f46d3ffc5e71
+2024-10-08 17:53:47,418 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 18:00:08,004 tencent_speech.log-INFO  start:307 1950c9b2-855c-11ef-b244-f46d3ffc5e71 recognition start
+2024-10-08 18:00:36,368 tencent_speech.log-ERROR  on_message:246 1950c9b2-855c-11ef-b244-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 18:00:36,368 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 1950c9b2-855c-11ef-b244-f46d3ffc5e71
+2024-10-08 18:00:36,368 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 1950c9b2-855c-11ef-b244-f46d3ffc5e71
+2024-10-08 18:00:36,368 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 18:09:50,553 tencent_speech.log-INFO  start:307 748b22e9-855d-11ef-9306-f46d3ffc5e71 recognition start
+2024-10-08 18:10:15,861 tencent_speech.log-ERROR  on_message:246 748b22e9-855d-11ef-9306-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 18:10:15,867 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 748b22e9-855d-11ef-9306-f46d3ffc5e71
+2024-10-08 18:10:15,868 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 748b22e9-855d-11ef-9306-f46d3ffc5e71
+2024-10-08 18:10:15,868 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 18:16:29,199 tencent_speech.log-INFO  start:307 6227132b-855e-11ef-b460-f46d3ffc5e71 recognition start
+2024-10-08 18:17:01,562 tencent_speech.log-INFO  start:307 757143a4-855e-11ef-9e58-f46d3ffc5e71 recognition start
+2024-10-08 18:17:41,194 tencent_speech.log-ERROR  on_message:246 757143a4-855e-11ef-9e58-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 18:17:41,194 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 757143a4-855e-11ef-9e58-f46d3ffc5e71
+2024-10-08 18:17:41,200 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 757143a4-855e-11ef-9e58-f46d3ffc5e71
+2024-10-08 18:17:41,200 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-08 18:38:56,754 tencent_speech.log-INFO  start:307 855c6d72-8561-11ef-b358-f46d3ffc5e71 recognition start
+2024-10-08 18:42:43,117 tencent_speech.log-INFO  start:307 0c47b52a-8562-11ef-8dc8-f46d3ffc5e71 recognition start
+2024-10-08 18:43:13,896 tencent_speech.log-ERROR  on_message:246 0c47b52a-8562-11ef-8dc8-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-08 18:43:13,905 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 0c47b52a-8562-11ef-8dc8-f46d3ffc5e71
+2024-10-08 18:43:13,906 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 0c47b52a-8562-11ef-8dc8-f46d3ffc5e71
+2024-10-08 18:43:13,908 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 16:15:28,729 tencent_speech.log-INFO  start:307 a4fe096f-8616-11ef-a039-f46d3ffc5e71 recognition start
+2024-10-09 16:16:20,546 tencent_speech.log-ERROR  on_message:246 a4fe096f-8616-11ef-a039-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 16:16:20,548 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id a4fe096f-8616-11ef-a039-f46d3ffc5e71
+2024-10-09 16:16:20,548 tencent_speech.log-INFO  on_close:276 websocket closed  voice id a4fe096f-8616-11ef-a039-f46d3ffc5e71
+2024-10-09 16:16:20,549 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 16:18:38,171 tencent_speech.log-INFO  start:307 15e872a3-8617-11ef-b628-f46d3ffc5e71 recognition start
+2024-10-09 16:19:22,835 tencent_speech.log-ERROR  on_message:246 15e872a3-8617-11ef-b628-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 16:19:22,836 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 15e872a3-8617-11ef-b628-f46d3ffc5e71
+2024-10-09 16:19:22,837 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 15e872a3-8617-11ef-b628-f46d3ffc5e71
+2024-10-09 16:19:22,837 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 16:37:02,841 tencent_speech.log-INFO  start:307 a8579dd7-8619-11ef-8925-f46d3ffc5e71 recognition start
+2024-10-09 16:38:33,165 tencent_speech.log-ERROR  on_message:246 a8579dd7-8619-11ef-8925-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 16:38:33,166 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id a8579dd7-8619-11ef-8925-f46d3ffc5e71
+2024-10-09 16:38:33,167 tencent_speech.log-INFO  on_close:276 websocket closed  voice id a8579dd7-8619-11ef-8925-f46d3ffc5e71
+2024-10-09 16:38:33,167 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 16:57:41,214 tencent_speech.log-INFO  start:307 8a788c85-861c-11ef-a204-f46d3ffc5e71 recognition start
+2024-10-09 16:58:15,743 tencent_speech.log-ERROR  on_message:246 8a788c85-861c-11ef-a204-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 16:58:15,744 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 8a788c85-861c-11ef-a204-f46d3ffc5e71
+2024-10-09 16:58:15,744 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 8a788c85-861c-11ef-a204-f46d3ffc5e71
+2024-10-09 16:58:15,744 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:02:56,083 tencent_speech.log-INFO  start:307 462580a0-861d-11ef-a451-f46d3ffc5e71 recognition start
+2024-10-09 17:03:31,857 tencent_speech.log-ERROR  on_message:246 462580a0-861d-11ef-a451-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 17:03:31,858 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 462580a0-861d-11ef-a451-f46d3ffc5e71
+2024-10-09 17:03:31,858 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 462580a0-861d-11ef-a451-f46d3ffc5e71
+2024-10-09 17:03:31,859 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:05:03,208 tencent_speech.log-INFO  start:307 91eb4077-861d-11ef-83b4-f46d3ffc5e71 recognition start
+2024-10-09 17:05:58,500 tencent_speech.log-ERROR  on_message:246 91eb4077-861d-11ef-83b4-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 17:05:58,502 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 91eb4077-861d-11ef-83b4-f46d3ffc5e71
+2024-10-09 17:05:58,504 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 91eb4077-861d-11ef-83b4-f46d3ffc5e71
+2024-10-09 17:05:58,504 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:11:53,054 tencent_speech.log-INFO  start:307 8634f645-861e-11ef-9100-f46d3ffc5e71 recognition start
+2024-10-09 17:12:24,459 tencent_speech.log-ERROR  on_message:246 8634f645-861e-11ef-9100-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 17:12:24,461 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 8634f645-861e-11ef-9100-f46d3ffc5e71
+2024-10-09 17:12:24,462 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 8634f645-861e-11ef-9100-f46d3ffc5e71
+2024-10-09 17:12:24,463 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:16:14,611 tencent_speech.log-INFO  start:307 221b8ce3-861f-11ef-b08c-f46d3ffc5e71 recognition start
+2024-10-09 17:16:44,823 tencent_speech.log-ERROR  on_message:246 221b8ce3-861f-11ef-b08c-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 17:16:44,824 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 221b8ce3-861f-11ef-b08c-f46d3ffc5e71
+2024-10-09 17:16:44,825 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 221b8ce3-861f-11ef-b08c-f46d3ffc5e71
+2024-10-09 17:16:44,826 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:21:42,976 tencent_speech.log-INFO  start:307 e5d39bab-861f-11ef-8e67-f46d3ffc5e71 recognition start
+2024-10-09 17:21:58,121 tencent_speech.log-ERROR  on_message:246 e5d39bab-861f-11ef-8e67-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 17:21:58,122 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id e5d39bab-861f-11ef-8e67-f46d3ffc5e71
+2024-10-09 17:21:58,123 tencent_speech.log-INFO  on_close:276 websocket closed  voice id e5d39bab-861f-11ef-8e67-f46d3ffc5e71
+2024-10-09 17:21:58,123 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:22:07,627 tencent_speech.log-INFO  start:307 f485497f-861f-11ef-bd7a-f46d3ffc5e71 recognition start
+2024-10-09 17:22:22,768 tencent_speech.log-ERROR  on_message:246 f485497f-861f-11ef-bd7a-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 17:22:22,769 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id f485497f-861f-11ef-bd7a-f46d3ffc5e71
+2024-10-09 17:22:22,770 tencent_speech.log-INFO  on_close:276 websocket closed  voice id f485497f-861f-11ef-bd7a-f46d3ffc5e71
+2024-10-09 17:22:22,770 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:23:42,885 tencent_speech.log-INFO  start:307 2d4c8f8e-8620-11ef-bba9-f46d3ffc5e71 recognition start
+2024-10-09 17:31:22,725 tencent_speech.log-ERROR  on_message:246 2d4c8f8e-8620-11ef-bba9-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 17:31:22,726 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 2d4c8f8e-8620-11ef-bba9-f46d3ffc5e71
+2024-10-09 17:31:22,727 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 2d4c8f8e-8620-11ef-bba9-f46d3ffc5e71
+2024-10-09 17:31:22,727 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 17:33:22,560 tencent_speech.log-INFO  start:307 86cff1ed-8621-11ef-b5a2-f46d3ffc5e71 recognition start
+2024-10-09 19:01:11,900 tencent_speech.log-ERROR  on_message:246 86cff1ed-8621-11ef-b5a2-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 19:01:11,908 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 86cff1ed-8621-11ef-b5a2-f46d3ffc5e71
+2024-10-09 19:01:11,908 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 86cff1ed-8621-11ef-b5a2-f46d3ffc5e71
+2024-10-09 19:01:11,909 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 19:02:19,164 tencent_speech.log-INFO  start:307 f3ad3544-862d-11ef-85e1-f46d3ffc5e71 recognition start
+2024-10-09 19:03:38,997 tencent_speech.log-ERROR  on_message:246 f3ad3544-862d-11ef-85e1-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 19:03:38,998 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id f3ad3544-862d-11ef-85e1-f46d3ffc5e71
+2024-10-09 19:03:38,998 tencent_speech.log-INFO  on_close:276 websocket closed  voice id f3ad3544-862d-11ef-85e1-f46d3ffc5e71
+2024-10-09 19:03:39,000 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 19:11:31,980 tencent_speech.log-INFO  start:307 3d2e2676-862f-11ef-befc-f46d3ffc5e71 recognition start
+2024-10-09 19:12:11,546 tencent_speech.log-ERROR  on_message:246 3d2e2676-862f-11ef-befc-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 19:12:11,548 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 3d2e2676-862f-11ef-befc-f46d3ffc5e71
+2024-10-09 19:12:11,548 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 3d2e2676-862f-11ef-befc-f46d3ffc5e71
+2024-10-09 19:12:11,550 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:03:19,754 tencent_speech.log-INFO  start:307 798f0e20-8636-11ef-affa-f46d3ffc5e71 recognition start
+2024-10-09 20:03:49,725 tencent_speech.log-ERROR  on_message:246 798f0e20-8636-11ef-affa-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:03:49,730 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 798f0e20-8636-11ef-affa-f46d3ffc5e71
+2024-10-09 20:03:49,738 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 798f0e20-8636-11ef-affa-f46d3ffc5e71
+2024-10-09 20:03:49,741 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:07:25,071 tencent_speech.log-INFO  start:307 0bc742f9-8637-11ef-9c0f-f46d3ffc5e71 recognition start
+2024-10-09 20:07:57,105 tencent_speech.log-ERROR  on_message:246 0bc742f9-8637-11ef-9c0f-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:07:57,109 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 0bc742f9-8637-11ef-9c0f-f46d3ffc5e71
+2024-10-09 20:07:57,117 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 0bc742f9-8637-11ef-9c0f-f46d3ffc5e71
+2024-10-09 20:07:57,121 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:10:18,169 tencent_speech.log-INFO  start:307 72f3e198-8637-11ef-8248-f46d3ffc5e71 recognition start
+2024-10-09 20:10:47,208 tencent_speech.log-ERROR  on_message:246 72f3e198-8637-11ef-8248-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:10:47,209 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 72f3e198-8637-11ef-8248-f46d3ffc5e71
+2024-10-09 20:10:47,209 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 72f3e198-8637-11ef-8248-f46d3ffc5e71
+2024-10-09 20:10:47,209 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:12:36,749 tencent_speech.log-INFO  start:307 c58d7958-8637-11ef-b1a0-f46d3ffc5e71 recognition start
+2024-10-09 20:13:07,813 tencent_speech.log-ERROR  on_message:246 c58d7958-8637-11ef-b1a0-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:13:07,816 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id c58d7958-8637-11ef-b1a0-f46d3ffc5e71
+2024-10-09 20:13:07,817 tencent_speech.log-INFO  on_close:276 websocket closed  voice id c58d7958-8637-11ef-b1a0-f46d3ffc5e71
+2024-10-09 20:13:07,817 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:14:26,359 tencent_speech.log-INFO  start:307 06e2bc16-8638-11ef-a38c-f46d3ffc5e71 recognition start
+2024-10-09 20:15:32,440 tencent_speech.log-ERROR  on_message:246 06e2bc16-8638-11ef-a38c-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:15:32,441 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 06e2bc16-8638-11ef-a38c-f46d3ffc5e71
+2024-10-09 20:15:32,442 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 06e2bc16-8638-11ef-a38c-f46d3ffc5e71
+2024-10-09 20:15:32,442 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:15:34,061 tencent_speech.log-INFO  start:307 2f3d394e-8638-11ef-ac01-f46d3ffc5e71 recognition start
+2024-10-09 20:21:29,487 tencent_speech.log-INFO  start:307 0316d37a-8639-11ef-9d6d-f46d3ffc5e71 recognition start
+2024-10-09 20:21:45,567 tencent_speech.log-ERROR  on_message:246 0316d37a-8639-11ef-9d6d-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:21:45,567 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 0316d37a-8639-11ef-9d6d-f46d3ffc5e71
+2024-10-09 20:21:45,567 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 0316d37a-8639-11ef-9d6d-f46d3ffc5e71
+2024-10-09 20:21:45,567 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:22:14,902 tencent_speech.log-INFO  start:307 1e288bf5-8639-11ef-a578-f46d3ffc5e71 recognition start
+2024-10-09 20:22:52,114 tencent_speech.log-ERROR  on_message:246 1e288bf5-8639-11ef-a578-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:22:52,114 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 1e288bf5-8639-11ef-a578-f46d3ffc5e71
+2024-10-09 20:22:52,117 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 1e288bf5-8639-11ef-a578-f46d3ffc5e71
+2024-10-09 20:22:52,117 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:28:29,717 tencent_speech.log-INFO  start:307 fd90f5e9-8639-11ef-9244-f46d3ffc5e71 recognition start
+2024-10-09 20:30:20,819 tencent_speech.log-ERROR  on_message:246 fd90f5e9-8639-11ef-9244-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:30:20,821 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id fd90f5e9-8639-11ef-9244-f46d3ffc5e71
+2024-10-09 20:30:20,822 tencent_speech.log-INFO  on_close:276 websocket closed  voice id fd90f5e9-8639-11ef-9244-f46d3ffc5e71
+2024-10-09 20:30:20,823 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:31:13,273 tencent_speech.log-INFO  start:307 5f0d9a60-863a-11ef-b743-f46d3ffc5e71 recognition start
+2024-10-09 20:35:52,744 tencent_speech.log-INFO  start:307 05a1b156-863b-11ef-9f64-f46d3ffc5e71 recognition start
+2024-10-09 20:36:57,597 tencent_speech.log-INFO  start:307 2c493542-863b-11ef-bc01-f46d3ffc5e71 recognition start
+2024-10-09 20:38:22,637 tencent_speech.log-INFO  start:307 5ef95862-863b-11ef-87bf-f46d3ffc5e71 recognition start
+2024-10-09 20:38:43,562 tencent_speech.log-INFO  start:307 6b723a6d-863b-11ef-8315-f46d3ffc5e71 recognition start
+2024-10-09 20:39:19,772 tencent_speech.log-INFO  start:307 810756b9-863b-11ef-9a97-f46d3ffc5e71 recognition start
+2024-10-09 20:41:10,759 tencent_speech.log-ERROR  on_message:246 810756b9-863b-11ef-9a97-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:41:10,761 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 810756b9-863b-11ef-9a97-f46d3ffc5e71
+2024-10-09 20:41:10,763 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 810756b9-863b-11ef-9a97-f46d3ffc5e71
+2024-10-09 20:41:10,763 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:42:27,141 tencent_speech.log-INFO  start:307 f0b59f8b-863b-11ef-a1ac-f46d3ffc5e71 recognition start
+2024-10-09 20:43:46,512 tencent_speech.log-ERROR  on_message:246 f0b59f8b-863b-11ef-a1ac-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:43:46,514 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id f0b59f8b-863b-11ef-a1ac-f46d3ffc5e71
+2024-10-09 20:43:46,515 tencent_speech.log-INFO  on_close:276 websocket closed  voice id f0b59f8b-863b-11ef-a1ac-f46d3ffc5e71
+2024-10-09 20:43:46,515 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 20:49:33,658 tencent_speech.log-INFO  start:307 eeef03ba-863c-11ef-9e8b-f46d3ffc5e71 recognition start
+2024-10-09 20:50:53,030 tencent_speech.log-ERROR  on_message:246 eeef03ba-863c-11ef-9e8b-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 20:50:53,033 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id eeef03ba-863c-11ef-9e8b-f46d3ffc5e71
+2024-10-09 20:50:53,034 tencent_speech.log-INFO  on_close:276 websocket closed  voice id eeef03ba-863c-11ef-9e8b-f46d3ffc5e71
+2024-10-09 20:50:53,035 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 21:52:32,881 tencent_speech.log-INFO  start:307 bb866b14-8645-11ef-b777-f46d3ffc5e71 recognition start
+2024-10-09 21:55:54,913 tencent_speech.log-INFO  start:307 33f24907-8646-11ef-91b4-f46d3ffc5e71 recognition start
+2024-10-09 21:57:00,626 tencent_speech.log-INFO  start:307 5b1d4340-8646-11ef-a613-f46d3ffc5e71 recognition start
+2024-10-09 21:57:35,120 tencent_speech.log-ERROR  on_message:246 5b1d4340-8646-11ef-a613-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 21:57:35,122 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 5b1d4340-8646-11ef-a613-f46d3ffc5e71
+2024-10-09 21:57:35,123 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 5b1d4340-8646-11ef-a613-f46d3ffc5e71
+2024-10-09 21:57:35,123 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 22:03:05,782 tencent_speech.log-INFO  start:307 34c3b00c-8647-11ef-b10c-f46d3ffc5e71 recognition start
+2024-10-09 22:31:32,191 tencent_speech.log-ERROR  on_message:246 34c3b00c-8647-11ef-b10c-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 22:31:32,192 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 34c3b00c-8647-11ef-b10c-f46d3ffc5e71
+2024-10-09 22:31:32,193 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 34c3b00c-8647-11ef-b10c-f46d3ffc5e71
+2024-10-09 22:31:32,193 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 22:34:35,419 tencent_speech.log-INFO  start:307 9b1350f7-864b-11ef-b625-f46d3ffc5e71 recognition start
+2024-10-09 22:34:50,593 tencent_speech.log-ERROR  on_message:246 9b1350f7-864b-11ef-b625-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-09 22:34:50,593 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id 9b1350f7-864b-11ef-b625-f46d3ffc5e71
+2024-10-09 22:34:50,594 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 9b1350f7-864b-11ef-b625-f46d3ffc5e71
+2024-10-09 22:34:50,594 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 22:35:15,423 tencent_speech.log-INFO  start:307 b2eb8290-864b-11ef-b617-f46d3ffc5e71 recognition start
+2024-10-09 22:37:25,941 tencent_speech.log-INFO  on_message:254 b2eb8290-864b-11ef-b617-f46d3ffc5e71 recognition complete
+2024-10-09 22:37:25,942 tencent_speech.log-INFO  on_close:276 websocket closed  voice id b2eb8290-864b-11ef-b617-f46d3ffc5e71
+2024-10-09 22:37:25,942 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 22:37:46,543 tencent_speech.log-INFO  start:307 0cfeca38-864c-11ef-b027-f46d3ffc5e71 recognition start
+2024-10-09 22:38:25,958 tencent_speech.log-INFO  on_message:254 0cfeca38-864c-11ef-b027-f46d3ffc5e71 recognition complete
+2024-10-09 22:38:25,960 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 0cfeca38-864c-11ef-b027-f46d3ffc5e71
+2024-10-09 22:38:25,960 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 22:38:43,644 tencent_speech.log-INFO  start:307 2f07ac07-864c-11ef-b28d-f46d3ffc5e71 recognition start
+2024-10-09 22:39:17,600 tencent_speech.log-INFO  on_message:254 2f07ac07-864c-11ef-b28d-f46d3ffc5e71 recognition complete
+2024-10-09 22:39:17,602 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 2f07ac07-864c-11ef-b28d-f46d3ffc5e71
+2024-10-09 22:39:17,602 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-09 22:39:28,412 tencent_speech.log-INFO  start:307 49b69955-864c-11ef-b63f-f46d3ffc5e71 recognition start
+2024-10-09 22:41:44,345 tencent_speech.log-INFO  on_message:254 49b69955-864c-11ef-b63f-f46d3ffc5e71 recognition complete
+2024-10-09 22:41:44,346 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 49b69955-864c-11ef-b63f-f46d3ffc5e71
+2024-10-09 22:41:44,346 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 16:58:10,464 tencent_speech.log-INFO  start:307 1b24c31f-8878-11ef-bd84-f46d3ffc5e71 recognition start
+2024-10-12 16:59:12,843 tencent_speech.log-INFO  on_message:254 1b24c31f-8878-11ef-bd84-f46d3ffc5e71 recognition complete
+2024-10-12 16:59:12,849 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 1b24c31f-8878-11ef-bd84-f46d3ffc5e71
+2024-10-12 16:59:12,850 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 18:19:50,081 tencent_speech.log-INFO  start:307 838b55c0-8883-11ef-a9a8-f46d3ffc5e71 recognition start
+2024-10-12 18:20:50,580 tencent_speech.log-INFO  on_message:254 838b55c0-8883-11ef-a9a8-f46d3ffc5e71 recognition complete
+2024-10-12 18:20:50,583 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 838b55c0-8883-11ef-a9a8-f46d3ffc5e71
+2024-10-12 18:20:50,583 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 18:21:07,000 tencent_speech.log-INFO  start:307 b1640d84-8883-11ef-8749-f46d3ffc5e71 recognition start
+2024-10-12 18:22:03,775 tencent_speech.log-INFO  on_message:254 b1640d84-8883-11ef-8749-f46d3ffc5e71 recognition complete
+2024-10-12 18:22:03,776 tencent_speech.log-INFO  on_close:276 websocket closed  voice id b1640d84-8883-11ef-8749-f46d3ffc5e71
+2024-10-12 18:22:03,776 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 20:55:25,300 tencent_speech.log-INFO  start:307 3fc4ac01-8899-11ef-aa34-f46d3ffc5e71 recognition start
+2024-10-12 20:56:25,781 tencent_speech.log-INFO  on_message:254 3fc4ac01-8899-11ef-aa34-f46d3ffc5e71 recognition complete
+2024-10-12 20:56:25,781 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 3fc4ac01-8899-11ef-aa34-f46d3ffc5e71
+2024-10-12 20:56:25,781 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 21:00:06,413 tencent_speech.log-INFO  start:307 e752e2da-8899-11ef-b3b2-f46d3ffc5e71 recognition start
+2024-10-12 21:01:06,936 tencent_speech.log-INFO  on_message:254 e752e2da-8899-11ef-b3b2-f46d3ffc5e71 recognition complete
+2024-10-12 21:01:06,936 tencent_speech.log-INFO  on_close:276 websocket closed  voice id e752e2da-8899-11ef-b3b2-f46d3ffc5e71
+2024-10-12 21:01:06,936 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 21:07:03,263 tencent_speech.log-INFO  start:307 dfc97a14-889a-11ef-bdb5-f46d3ffc5e71 recognition start
+2024-10-12 21:11:44,584 tencent_speech.log-ERROR  on_message:246 dfc97a14-889a-11ef-bdb5-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-10-12 21:11:44,584 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id dfc97a14-889a-11ef-bdb5-f46d3ffc5e71
+2024-10-12 21:11:44,584 tencent_speech.log-INFO  on_close:276 websocket closed  voice id dfc97a14-889a-11ef-bdb5-f46d3ffc5e71
+2024-10-12 21:11:44,584 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 21:14:02,696 tencent_speech.log-INFO  start:307 d9c9c69b-889b-11ef-a715-f46d3ffc5e71 recognition start
+2024-10-12 21:19:36,497 tencent_speech.log-INFO  on_message:254 d9c9c69b-889b-11ef-a715-f46d3ffc5e71 recognition complete
+2024-10-12 21:19:36,508 tencent_speech.log-INFO  on_close:276 websocket closed  voice id d9c9c69b-889b-11ef-a715-f46d3ffc5e71
+2024-10-12 21:19:36,508 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 21:21:29,861 tencent_speech.log-INFO  start:307 e451cb13-889c-11ef-9ad8-f46d3ffc5e71 recognition start
+2024-10-12 21:21:30,243 tencent_speech.log-INFO  on_message:254 e451cb13-889c-11ef-9ad8-f46d3ffc5e71 recognition complete
+2024-10-12 21:21:30,243 tencent_speech.log-INFO  on_close:276 websocket closed  voice id e451cb13-889c-11ef-9ad8-f46d3ffc5e71
+2024-10-12 21:21:30,243 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 21:22:32,264 tencent_speech.log-INFO  start:307 098358ff-889d-11ef-bf4e-f46d3ffc5e71 recognition start
+2024-10-12 21:23:32,691 tencent_speech.log-INFO  on_message:254 098358ff-889d-11ef-bf4e-f46d3ffc5e71 recognition complete
+2024-10-12 21:23:32,691 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 098358ff-889d-11ef-bf4e-f46d3ffc5e71
+2024-10-12 21:23:32,691 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 21:26:02,347 tencent_speech.log-INFO  start:307 86bbe4e8-889d-11ef-8faf-f46d3ffc5e71 recognition start
+2024-10-12 21:29:03,722 tencent_speech.log-INFO  on_message:254 86bbe4e8-889d-11ef-8faf-f46d3ffc5e71 recognition complete
+2024-10-12 21:29:03,754 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 86bbe4e8-889d-11ef-8faf-f46d3ffc5e71
+2024-10-12 21:29:03,769 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-10-12 21:29:15,226 tencent_speech.log-INFO  start:307 f9b2b373-889d-11ef-8959-f46d3ffc5e71 recognition start
+2024-10-12 21:53:40,906 tencent_speech.log-INFO  on_message:254 f9b2b373-889d-11ef-8959-f46d3ffc5e71 recognition complete
+2024-10-12 21:53:40,913 tencent_speech.log-INFO  on_close:276 websocket closed  voice id f9b2b373-889d-11ef-8959-f46d3ffc5e71
+2024-10-12 21:53:40,914 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-12-28 11:28:35,100 tencent_speech.log-INFO  start:307 d1ead191-c4cb-11ef-8010-f46d3ffc5e71 recognition start
+2024-12-28 11:28:50,439 tencent_speech.log-ERROR  on_message:246 d1ead191-c4cb-11ef-8010-f46d3ffc5e71 server recognition fail 客户端超过15秒未发送音频数据
+2024-12-28 11:28:50,455 tencent_speech.log-ERROR  on_error:270 websocket error Connection to remote host was lost.  voice id d1ead191-c4cb-11ef-8010-f46d3ffc5e71
+2024-12-28 11:28:50,455 tencent_speech.log-INFO  on_close:276 websocket closed  voice id d1ead191-c4cb-11ef-8010-f46d3ffc5e71
+2024-12-28 11:28:50,460 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-12-28 11:32:21,433 tencent_speech.log-INFO  start:307 58d27c3e-c4cc-11ef-9224-f46d3ffc5e71 recognition start
+2024-12-28 11:33:08,374 tencent_speech.log-INFO  on_message:254 58d27c3e-c4cc-11ef-9224-f46d3ffc5e71 recognition complete
+2024-12-28 11:33:08,381 tencent_speech.log-INFO  on_close:276 websocket closed  voice id 58d27c3e-c4cc-11ef-9224-f46d3ffc5e71
+2024-12-28 11:33:08,382 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
+2024-12-28 12:04:45,484 tencent_speech.log-INFO  start:307 df905247-c4d0-11ef-ac05-f46d3ffc5e71 recognition start
+2024-12-28 12:05:26,965 tencent_speech.log-INFO  on_message:254 df905247-c4d0-11ef-ac05-f46d3ffc5e71 recognition complete
+2024-12-28 12:05:26,977 tencent_speech.log-INFO  on_close:276 websocket closed  voice id df905247-c4d0-11ef-ac05-f46d3ffc5e71
+2024-12-28 12:05:26,978 tencent_speech.log-INFO  on_close:278 WebSocket connection closed with code: None, message: None
